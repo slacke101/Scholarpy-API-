@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+httpx
+beautifulsoup4
+lxml
+python-dotenv
+feedparser
+orjson
+rapidfuzz

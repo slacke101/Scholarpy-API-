@@ -1,2 +1,22 @@
-# Scholarpy-API-
-Scholar API – A FastAPI-powered micro-service that unifies access to research papers, datasets, and patents. Features: semantic search, pluggable scrapers (PubMed, arXiv, IEEE, Zenodo, USPTO), MongoDB persistence, and in-memory caching for lightning-fast look-ups.
+# Scholar API
+
+A unified API for scholarly papers, patents, and datasets built with FastAPI.
+
+## Quick Start
+
+```bash
+# install deps
+pip install -r requirements.txt
+
+# run development server
+uvicorn api.main:app --reload
+```
+
+## Project Structure
+
+```
+ScholarAPI/
+├── api/
+├── scrapers/
+├── core/
+```
