@@ -1,4 +1,7 @@
-# Scholar API
+<h1 align="center">
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=ScholarPy&width=800&height=150" />
+</h1>
+
 
 ![Created by Rafael Castro & Faith Nambasa](https://img.shields.io/badge/Created%20by-Rafael%20Castro%20&%20Faith%20Nambasa-blue)
 
